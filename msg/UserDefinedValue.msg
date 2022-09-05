@@ -1,0 +1,2 @@
+scenario_simulator_v2_msgs/UserDefinedValueType type
+string value
